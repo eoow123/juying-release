@@ -4,16 +4,23 @@
 
 ## 下载最新版
 
-前往 [Releases](https://github.com/eoow123/juying-release/releases/latest) 页面下载最新 APK。
+前往 [Releases](https://github.com/eoow123/juying-release/releases/latest) 页面下载最新 APK（`juying-arm64.apk`）。
 
-### 备用下载（国内加速）
+### 国内加速下载（实测可用）
 
-如果 GitHub 直连较慢，可使用镜像加速链接（在 Release 页 APK 链接前加 `https://gh-proxy.com/`）。
+在 Release 页 APK 链接前加镜像前缀：
 
-## 更新检查
+- `https://ghfast.top/` + APK 链接
+- `https://ghproxy.net/` + APK 链接
 
-- 主更新链接：`https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
-- 备用更新链接：`https://gh-proxy.com/https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
+最新版直达（镜像）：
+`https://ghfast.top/https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk`
+
+## 更新检查链接
+
+- 主链接：`https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
+- 备用 1：`https://ghfast.top/https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
+- 备用 2：`https://ghproxy.net/https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
 
 ## 说明
 
