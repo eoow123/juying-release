@@ -4,7 +4,8 @@
   "versionCode": 1,
   "tag": "v1.0.20260727_1808",
   "apkUrl": "https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk",
-  "apkUrlMirror": "https://gh-proxy.com/https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk",
+  "apkUrlMirror": "https://ghfast.top/https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk",
+  "apkUrlMirror2": "https://ghproxy.net/https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk",
   "releasePage": "https://github.com/eoow123/juying-release/releases/latest",
   "changelog": "快搜清晰度扫描卡死彻底修复；中插广告自动跳过；免费统计与防破解导流；弹幕匹配优化",
   "publishedAt": "2026-07-27"
