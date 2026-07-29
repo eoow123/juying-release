@@ -1,12 +1,1 @@
-{
-  "name": "聚影",
-  "versionName": "1.0.20260727_1808",
-  "versionCode": 2,
-  "tag": "v1.0.20260727_1808",
-  "apkUrl": "https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk",
-  "apkUrlMirror": "https://ghfast.top/https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk",
-  "apkUrlMirror2": "https://ghproxy.net/https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk",
-  "releasePage": "https://github.com/eoow123/juying-release/releases/latest",
-  "changelog": "快搜清晰度扫描卡死彻底修复；中插广告自动跳过；免费统计与防破解导流；弹幕匹配优化",
-  "publishedAt": "2026-07-27"
-}
+{"name": "聚影 v1.1", "versionName": "1.1", "versionCode": 10100, "tag": "v1.1", "apkUrl": "https://github.com/eoow123/juying-release/releases/tag/v1.1", "apkUrlMirror": "https://ghfast.top/https://github.com/eoow123/juying-release/releases/download/v1.1/TVBox_v1.1.apk", "apkUrlMirror2": "https://ghproxy.net/https://github.com/eoow123/juying-release/releases/download/v1.1/TVBox_v1.1.apk", "releasePage": "https://github.com/eoow123/juying-release/releases/tag/v1.1", "changelog": "1. 修复已知Bug\\n2. 优化性能\n网盘直链：https://eoow.lanzoum.com/iFCcm3ze739c", "publishedAt": "2026-07-29", "netdisk": "https://eoow.lanzoum.com/iFCcm3ze739c", "method": "netdisk"}
