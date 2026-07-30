@@ -18,7 +18,11 @@
 - `https://ghfast.top/` + APK 链接
 - `https://ghproxy.net/` + APK 链接
 
-> 用法：打开上面「Releases」最新版页面，复制 APK 右侧的下载链接（形如 `https://github.com/eoow123/juying-release/releases/download/v1.2/TVBox_v1.2.apk`），前面拼上 `https://ghfast.top/` 即可，例如：
+> 用法：打开上面「Releases」最新版页面，复制 APK 右侧的下载链接（形如`https://github.com/eoow123/juying-release/releases/download/v1.2/TVBox_v1.2.apk`  ）
+
+前面拼上 `https://ghfast.top/`
+
+例如：
 > `https://ghfast.top/https://github.com/eoow123/juying-release/releases/download/v1.2/TVBox_v1.2.apk`
 
 ## 说明
