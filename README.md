@@ -13,15 +13,6 @@
 - `https://ghfast.top/` + APK 链接
 - `https://ghproxy.net/` + APK 链接
 
-最新版直达（镜像）：
-`https://ghfast.top/https://github.com/eoow123/juying-release/releases/download/v1.0.20260727_1808/juying-arm64.apk`
-
-## 更新检查链接
-
-- 主链接：`https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
-- 备用 1：`https://ghfast.top/https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
-- 备用 2：`https://ghproxy.net/https://raw.githubusercontent.com/eoow123/juying-release/main/update.json`
-
 ## 说明
 
 - 本仓库只发布官方构建版本，请认准本页面下载。
