@@ -4,7 +4,7 @@
 
 ## 下载最新版
 
-前往 [Releases] 页面下载最新 APK（`juying-arm64.apk`）。
+前往 [https://github.com/eoow123/juying-release/releases] 页面下载最新 APK`juying-arm64.apk`。
 
 ### 国内加速下载（实测可用）
 
