@@ -6,7 +6,6 @@
 ![发布日期](https://img.shields.io/github/release-date/eoow123/juying-release?label=%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F)
 ![最近提交](https://img.shields.io/github/last-commit/eoow123/juying-release?label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)
 
-> 上方版本号 / 发布日期 / 最近提交**均由 GitHub 自动同步**，每次发版或提交后无需手动修改本页。
 
 ## 下载最新版
 
